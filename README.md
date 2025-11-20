@@ -15,10 +15,10 @@ The aim of this log is to document these **16 additional hours** clearly.
 
 | Date | Additional Work Hours | Notes |
 |------|------------------------|--------|
+| 20.11.2025     |  18:30-20:30 (2 hours)                      | See proof_1.png       |
 |      |                        |        |
 |      |                        |        |
 |      |                        |        |
-|      |                        |        |
-| **Total** | **0 / 16** | |
+| **Total** | **2 / 16** | |
 
 ---
