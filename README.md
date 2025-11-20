@@ -4,8 +4,8 @@ This repository contains the record of **additional work hours** for **Tarik Sah
 
 ## Context
 
-Tarik Sahin is planning his vacation and the final day for returning university equipment (laptop, screens, camera, etc.) is scheduled for **Friday, 12 November 2025**.  
-His **last official working day** would be **Sunday, 16 November 2025**, but he proposed to **compensate for the remaining two working days (2 × 8 = 16 hours)** by doing **additional work** in the preceding weeks.
+Tarik Sahin is planning his vacation and the final day for returning university equipment (laptop, screens, camera, etc.) is scheduled for **Friday, 12 December 2025**.  
+His **last official working day** would be **Tuesday, 16 December 2025**, but he proposed to **compensate for the remaining two working days (2 × 8 = 16 hours)** by doing **additional work** in the preceding weeks.
 
 The aim of this log is to document these **16 additional hours** clearly.
 
