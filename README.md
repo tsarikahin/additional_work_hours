@@ -16,9 +16,9 @@ The aim of this log is to document these **16 additional hours** clearly.
 | Date | Additional Work Hours | Notes |
 |------|------------------------|--------|
 | 20.11.2025     |  18:30-20:30 (2 hours)                      | See proof_1.png       |
+| 21.11.2025     |  18:00-20:00 (2 hours)                      |  https://github.com/imcs-compsim/deep_sim/pull/3      |
 |      |                        |        |
 |      |                        |        |
-|      |                        |        |
-| **Total** | **2 / 16** | |
+| **Total** | **4 / 16** | |
 
 ---
