@@ -18,7 +18,7 @@ The aim of this log is to document these **16 additional hours** clearly.
 | 20.11.2025     |  18:30-20:30 (2 hours)                      | See proof_1.png       |
 | 21.11.2025     |  18:00-20:00 (2 hours)               |  https://github.com/imcs-compsim/deep_sim/pull/3      |
 | 21.11.2025     |  20:30-22:30 (2 hours)        |  See proof_2.png      |
-|      |                        |        |
-| **Total** | **6 / 16** | |
+| 26.11.2025     |  18:00-20:30                      | See proof_3.png (computer clean up start)      |
+| **Total** | **8.5 / 16** | |
 
 ---
