@@ -20,6 +20,7 @@ The aim of this log is to document these **16 additional hours** clearly.
 | 21.11.2025     |  20:30-22:30 (2 hours)        |  See proof_2.png      |
 | 26.11.2025     |  18:00-21:00 (3 hours)                     | See proof_3.png (computer clean up start)      |
 | 30.11.2025     |  14:30-21:15 (6 hours 45 mins)                   | https://github.com/imcs-compsim/pinns_for_comp_mech/pull/58 and computer storage cleanup    |
-| **Total** | **15:45 / 16** | |
+| 09.12.2025     |  18:00-23:00 (5 hours)                   | computer storage cleanup / backup   |
+| **Total** | **20:45 / 16** | |
 
 ---
